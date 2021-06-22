@@ -1,3 +1,5 @@
+By 強めのヤツ#6433
+
 Levels 0x138
 AActors 0x98
 PersistentLevel 0x30
