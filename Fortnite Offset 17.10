@@ -35,6 +35,7 @@ FortniteGame.FortWeapon.IsReloading 0x2B1
 FortniteGame.FortPawn.bIsDBNO 0x57E
 FortniteGame.FortPawn.bIsDying 0x540
 FortniteGame.FortPlayerStateAthena.TeamIndex 0xED0
+FortniteGame.FortPlayerStateAthena.SquadId 0x1054
 FortniteGame.FortPickup.PrimaryPickupItemEntry 0x2A8
 FortniteGame.FortItemDefinition.DisplayName 0x88
 FortniteGame.FortItemDefinition.Tier 0x6C
