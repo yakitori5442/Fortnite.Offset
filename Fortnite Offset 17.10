@@ -53,6 +53,7 @@ FortniteGame.FortRangedWeaponStats.RecoilHoriz 0x210
 FortniteGame.FortRangedWeaponStats.RecoilVert 0x200
 FortniteGame.FortRangedWeaponStats.RecoilDownsightsMultiplier 0x22C
 FortniteGame.BuildingContainer.bAlreadySearched 0xD49
+FortniteGame.BuildingWeakSpot.bActive 0x250
 FortniteGame.FortRangedWeaponStats.Spread 0x16C
 FortniteGame.FortRangedWeaponStats.SpreadDownsights 0x170
 FortniteGame.FortRangedWeaponStats.StandingStillSpreadMultiplier 0x174
