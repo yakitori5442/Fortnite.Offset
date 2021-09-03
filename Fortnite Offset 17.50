@@ -12,16 +12,28 @@ Engine.Pawn.PlayerState 0x240
 Engine.Actor.RootComponent 0x130
 Engine.Character.Mesh 0x280
 Engine.SceneComponent.RelativeLocation 0x11C
+Engine.SceneComponent.RelativeRotation 0x128
 Engine.SceneComponent.ComponentVelocity 0x140
+Engine.SceneComponent.ComponentToWorld 0x14c
 Engine.StaticMeshComponent.StaticMesh 0x480
 Engine.SkinnedMeshComponent.CachedWorldSpaceBounds 0x618
 Engine.Actor.CustomTimeDilation 0x98
 Engine.Controller.RemoteViewPitch 0x232
+Engine.FortMeatballVehicle.FortMeatballVehicleConfigsClass 0x17E8
+Engine.FortMeatballVehicleConfigs.BoostMinPushForce 0x6F8
+Engine.FortMeatballVehicleConfigs.BoostTopSpeedForceMultiplier 0x6FC
+Engine.FortMeatballVehicleConfigs.BoostTopSpeedMultiplier 0x700
+Engine.FortMeatballVehicleConfigs.LandTopSpeedMultiplier 0x708
+Engine.FortMeatballVehicleConfigs.LandPushForceMultiplier 0x70C
+Engine.FortMeatballVehicleConfigs.BoostSteeringMultiplier 0x74C
+Engine.FortMeatballVehicleConfigs.LandSteeringMultiplier 0x754
+Engine.FortMeatballVehicleConfigs.LandMinSpeedSteeringAngle 0x758
+Engine.FortMeatballVehicleConfigs.LandMaxSpeedSteeringAngle 0x75C
 
 
 FortniteGame.FortWeapon.LastFireTimeVerified 0x9C0
 FortniteGame.FortWeapon.LastFireTime 0x9BC
-FortniteGame.FortWeapon.IsReloading 0x2B1
+FortniteGame.FortWeapon.bIsReloadingWeapon 0x2B1
 FortniteGame.FortPawn.bIsDBNO 0x57E
 FortniteGame.FortPawn.bIsDying 0x540
 FortniteGame.FortPlayerStateAthena.TeamIndex 0xED0
@@ -34,7 +46,7 @@ FortniteGame.FortPawn.CurrentWeapon 0x600
 FortniteGame.FortWeapon.WeaponData 0x378
 FortniteGame.FortWeapon.AmmoCount 0xA48
 FortniteGame.FortWeapon.LastFireAbilityTime 0xC08
-FortniteGame.FortWeaponItemDefinition.WeaponStatHandle 0x820
+FortniteGame.FortWeaponItemDefinition.WeaponStatHandle 0x830
 FortniteGame.FortProjectileAthena.FireStartLoc 0x880
 FortniteGame.FortBaseWeaponStats.ReloadTime 0x10C
 FortniteGame.FortBaseWeaponStats.ReloadScale 0x110
