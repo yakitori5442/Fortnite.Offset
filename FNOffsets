@@ -18,24 +18,24 @@ Engine.SceneComponent.ComponentToWorld 0x14C
 Engine.StaticMeshComponent.StaticMesh 0x480
 Engine.SkinnedMeshComponent.CachedWorldSpaceBounds 0x618
 Engine.Actor.CustomTimeDilation 0x98
-Engine.Controller.RemoteViewPitch 0x232
+Engine.Pawn.RemoteViewPitch 0x232
 
 
-FortniteGame.FortWeapon.LastFireTimeVerified 0x9F0
-FortniteGame.FortWeapon.LastFireTime 0x9EC
+FortniteGame.FortWeapon.LastFireTimeVerified 0x9F8
+FortniteGame.FortWeapon.LastFireTime 0x9F4
 FortniteGame.FortWeapon.bIsReloadingWeapon 0x2B9
 FortniteGame.FortPawn.bIsDBNO 0x58E
 FortniteGame.FortPawn.bIsDying 0x540
-FortniteGame.FortPlayerStateAthena.TeamIndex 0xED8
-FortniteGame.FortPlayerStateAthena.SquadId 0x105C
+FortniteGame.FortPlayerStateAthena.TeamIndex 0xEE8
+FortniteGame.FortPlayerStateAthena.SquadId 0x1064
 FortniteGame.FortPickup.PrimaryPickupItemEntry 0x2A8
 FortniteGame.FortItemDefinition.DisplayName 0x88
 FortniteGame.FortItemDefinition.Tier 0x6C
 FortniteGame.FortItemEntry.ItemDefinition 0x18
-FortniteGame.FortPawn.CurrentWeapon 0x610
+FortniteGame.FortPawn.CurrentWeapon 0x618
 FortniteGame.FortWeapon.WeaponData 0x380
-FortniteGame.FortWeapon.AmmoCount 0xA78
-FortniteGame.FortWeapon.LastFireAbilityTime 0xC38
+FortniteGame.FortWeapon.AmmoCount 0xA80
+FortniteGame.FortWeapon.LastFireAbilityTime 0x1248
 FortniteGame.FortWeaponItemDefinition.WeaponStatHandle 0x830
 FortniteGame.FortProjectileAthena.FireStartLoc 0x880
 FortniteGame.FortBaseWeaponStats.ReloadTime 0x10C
@@ -44,7 +44,7 @@ FortniteGame.FortBaseWeaponStats.ChargeDownTime 0x13C
 FortniteGame.FortRangedWeaponStats.RecoilHoriz 0x214
 FortniteGame.FortRangedWeaponStats.RecoilVert 0x204
 FortniteGame.FortRangedWeaponStats.RecoilDownsightsMultiplier 0x230
-FortniteGame.BuildingContainer.bAlreadySearched 0xE39
+FortniteGame.BuildingContainer.bAlreadySearched 0xE11
 FortniteGame.BuildingWeakSpot.bActive 0x250
 FortniteGame.FortRangedWeaponStats.Spread 0x16C
 FortniteGame.FortRangedWeaponStats.SpreadDownsights 0x174
@@ -54,7 +54,7 @@ FortniteGame.FortRangedWeaponStats.AthenaCrouchingSpreadMultiplier 0x17C
 FortniteGame.FortRangedWeaponStats.AthenaSprintingSpreadMultiplier 0x184
 FortniteGame.FortRangedWeaponStats.MinSpeedForSpreadMultiplier 0x188
 FortniteGame.FortRangedWeaponStats.MaxSpeedForSpreadMultiplier 0x18C
-FortniteGame.FortMeatballVehicle.FortMeatballVehicleConfigsClass 0x1878
+FortniteGame.FortMeatballVehicle.FortMeatballVehicleConfigsClass 0x1888
 FortniteGame.FortMeatballVehicleConfigs.BoostMinPushForce 0x558
 FortniteGame.FortMeatballVehicleConfigs.BoostTopSpeedForceMultiplier 0x55C
 FortniteGame.FortMeatballVehicleConfigs.BoostTopSpeedMultiplier 0x560
