@@ -8,7 +8,7 @@ Engine.World.OwningGameInstance 0x190
 Engine.Controller.ControlRotation 0x298
 Engine.PlayerController.PlayerCameraManager 0x2C8
 Engine.PlayerController.AcknowledgedPawn 0x2B0
-Engine.Pawn.PlayerState 0x238
+Engine.Pawn.PlayerState 0x240
 Engine.Actor.RootComponent 0x130
 Engine.Character.Mesh 0x288
 Engine.SceneComponent.RelativeLocation 0x11C
