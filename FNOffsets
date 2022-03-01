@@ -43,3 +43,4 @@ FortniteGame.FortRangedWeaponStats.RecoilHoriz 0x21C
 FortniteGame.FortRangedWeaponStats.RecoilVert 0x20C
 FortniteGame.FortRangedWeaponStats.RecoilDownsightsMultiplier 0x238
 FortniteGame.BuildingContainer.bAlreadySearched 0xE49
+
