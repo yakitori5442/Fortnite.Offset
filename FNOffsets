@@ -1,5 +1,3 @@
-By 強めのヤツ#3585
-
 Engine.World.Levels 0x148
 Engine.World.PersistentLevel 0x30
 Engine.GameInstance.LocalPlayers 0x38
@@ -43,4 +41,3 @@ FortniteGame.FortRangedWeaponStats.RecoilHoriz 0x21C
 FortniteGame.FortRangedWeaponStats.RecoilVert 0x20C
 FortniteGame.FortRangedWeaponStats.RecoilDownsightsMultiplier 0x238
 FortniteGame.BuildingContainer.bAlreadySearched 0xE49
-
