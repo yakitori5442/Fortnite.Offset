@@ -31,8 +31,8 @@ FortniteGame.FortItemDefinition.Tier 0x74
 FortniteGame.FortItemEntry.ItemDefinition 0x18
 FortniteGame.FortPawn.CurrentWeapon 0x7B0
 FortniteGame.FortWeapon.WeaponData 0x400
-FortniteGame.FortWeapon.AmmoCount 0xB54
-FortniteGame.FortWeapon.LastFireAbilityTime 0x1378
+FortniteGame.FortWeapon.AmmoCount 0xB3C
+FortniteGame.FortWeapon.LastFireAbilityTime 0x1360
 FortniteGame.FortWeaponItemDefinition.WeaponStatHandle 0x998
 FortniteGame.FortProjectileAthena.FireStartLoc 0xA18
 FortniteGame.FortBaseWeaponStats.ReloadTime 0xE8
